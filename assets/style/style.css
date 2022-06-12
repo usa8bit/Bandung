@@ -57,8 +57,8 @@ main {
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     border-radius: 5px;
-    padding: 20px;
-    margin-top: 20px;
+    padding: 10px;
+    padding-top: 3rem;
 }
 
 .featured-image {
@@ -95,5 +95,8 @@ footer {
     aside {
         width: 100%;
         padding: 0;
+    }
+    .card {
+        padding-top: 5px;
     }
 }
